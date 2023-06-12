@@ -1,7 +1,7 @@
 <root>
 	<config>
-		<FLASHSITE value="http://flash1.gun6789.net/" />
-		<BACKUP_FLASHSITE value="http://flash1.gun6789.net/" />
+		<FLASHSITE value="http://flashcloud1.gun6789.net/" />
+		<BACKUP_FLASHSITE value="http://flashcloud1.gun6789.net/" />
 		<!--  是否使用md5头校验  -->
 		<USE_MD5 value="false" />
 		<SITE value="http://res.gun6789.net/" />
@@ -12,7 +12,7 @@
 		<FILL_PATH value="http://gun6789.net/" />
 		<WEEKLYSITE value="http://gun6789.net/" />
 		<POLICY_FILES>
-			<file value="http://flash1.gun6789.net/crossdomain.xml" />
+			<file value="http://flashcloud1.gun6789.net/crossdomain.xml" />
 		</POLICY_FILES>
 		<FIGHTLIB value="true"/>
 		<ALLOW_MULTI value="true"/>
